@@ -1,0 +1,5 @@
+5,report
+4,news article
+3,page h
+2,page deux
+1,page unoo
